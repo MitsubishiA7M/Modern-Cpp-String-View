@@ -12,6 +12,7 @@ The project focuses on **clean interface design, memory safety, and modern C++ b
 
 ## Project Structure
 
+```bash
 Modern-Cpp-String-View/
 ├─ include/
 │  └─ filtered_string_view.h
@@ -19,6 +20,7 @@ Modern-Cpp-String-View/
 │  └─ filtered_string_view.cpp
 ├─ .gitignore
 └─ README.md
+```
 
 ---
 
